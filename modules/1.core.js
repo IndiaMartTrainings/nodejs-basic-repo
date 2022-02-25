@@ -1,5 +1,4 @@
 // How to create web server ?
-
 const http = require('http')
 
 http.createServer(function(request, response){
